@@ -5,7 +5,7 @@
 
 [Industrial control system (ICS)](https://en.wikipedia.org/wiki/Industrial_control_system) is a collective term used to describe different types of control systems and associated instrumentation, which include the devices, systems, networks, and controls used to operate and/or automate industrial processes. Depending on the industry, each ICS functions differently and are built to electronically manage tasks efficiently. Today the devices and protocols used in an ICS are used in nearly every industrial sector and critical infrastructure such as the manufacturing, transportation, energy, and water treatment industries.
 
-- There are several types of ICSs, the most common of which are **Supervisory Control and Data Acquisition (SCADA) systems**, and **Distributed Control Systems (DCS)**. Local operations are often controlled by so-called Field Devices that receive supervisory commands from remote stations.
+- There are several types of [ICSs](https://www.trendmicro.com/vinfo/us/security/definition/industrial-control-system), the most common of which are **Supervisory Control and Data Acquisition (SCADA) systems**, and **Distributed Control Systems (DCS)**. Local operations are often controlled by so-called Field Devices that receive supervisory commands from remote stations.
 
 
 ## Tools
